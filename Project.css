@@ -304,14 +304,14 @@ tracks where are u reach*/
     margin-top: 3rem;
     justify-content: center;
     margin-bottom: 43rem;
-    opacity: 1;
+    opacity: 0.6;
     z-index: 10;
     overflow: hidden;
     margin-right: 2rem;
     transition: 0.5s;
 }
 .further-controls:hover{
-transform: scale(1.1);  
+opacity: 1;
 }
 
 .control-icons{
